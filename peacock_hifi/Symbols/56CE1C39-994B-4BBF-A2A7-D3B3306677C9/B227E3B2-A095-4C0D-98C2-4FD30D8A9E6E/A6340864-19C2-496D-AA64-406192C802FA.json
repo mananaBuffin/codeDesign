@@ -34,7 +34,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C14C91AB-2000-42A0-809F-EC3E01F8D784",
+  "do_objectID": "A6340864-19C2-496D-AA64-406192C802FA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,9 +49,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 914,
-    "x": 10.5,
-    "y": 13
+    "width": 924,
+    "x": 0,
+    "y": 0
   },
   "glyphBounds": "{{0, 3}, {363, 15}}",
   "hasClippingMask": false,
@@ -103,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A2C4C773-4F45-45E5-9AC8-C3DE7DC52B91",
+    "do_objectID": "7E8FED33-CC93-4D9C-8F2A-EDEDAA5CCD94",
     "endMarkerType": 0,
     "fills": [
     ],

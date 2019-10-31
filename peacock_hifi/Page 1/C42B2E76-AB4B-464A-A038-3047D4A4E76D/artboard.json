@@ -49,7 +49,9 @@
       42,
       532,
       287,
-      981
+      981,
+      307,
+      318
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -93,6 +95,22 @@
     {
       "class": "symbolInstance",
       "id": "A91F9BA4-438C-4668-A9CD-7AEED765E42B"
+    },
+    {
+      "class": "text",
+      "id": "A2458F03-BBEC-4535-A429-518CC2F17BA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB1F9F13-6C05-4C3C-85AA-EDBCD839378A"
+    },
+    {
+      "class": "text",
+      "id": "700086E9-1E23-40F4-A1BA-2D5DDA57B921"
+    },
+    {
+      "class": "text",
+      "id": "CDE3B28E-61D9-45C4-BE62-D5341C93B950"
     }
   ],
   "layout": {

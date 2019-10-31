@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A91F9BA4-438C-4668-A9CD-7AEED765E42B",
+  "do_objectID": "37A8A58B-FD56-4441-ABD7-B574001826C9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 47,
-    "width": 714,
-    "x": 277,
-    "y": 540
+    "height": 21,
+    "width": 924,
+    "x": 11,
+    "y": 13
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,31 +29,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "section-title",
+  "name": "section-title-text/not-numbered",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "C14C91AB-2000-42A0-809F-EC3E01F8D784_stringValue",
-      "value": "Installation Qualification Protocol"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "A9D917D4-B108-4EA3-99E1-FFDCFCB45882_stringValue",
-      "value": "99."
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9_symbolID",
-      "value": "9614D3E7-A3F1-42E8-B336-62DFE8E122BD"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9/8B3A52C8-248F-4BF9-B6AD-A593A5321C56_stringValue",
-      "value": "Setup verification"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -92,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A8698BAF-CDD2-4158-A3E7-8CD98E278C61",
+    "do_objectID": "AFABC0A3-536A-4DEE-9773-3AB1136BAC82",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,6 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A6F313F4-F86F-4BF3-A43B-DCC1187AAD2C",
+  "symbolID": "42ABCDB4-C2FB-48DD-9F05-29EEDBA68ECC",
   "verticalSpacing": 0
 }

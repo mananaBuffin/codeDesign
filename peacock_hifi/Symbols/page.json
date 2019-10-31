@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -593,
+    "base": 0,
     "guides": [
     ]
   },
@@ -41,6 +41,18 @@
   "layers": [
     {
       "class": "symbolMaster",
+      "id": "233CF8DB-8F72-4E83-9851-0C566F867310"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E92DA84B-9FAA-4B40-A5EF-E6C00277D72A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AA027A97-C655-4ABE-B22B-86C7BD662800"
+    },
+    {
+      "class": "symbolMaster",
       "id": "CECD086D-58CA-4781-8FF4-941D77C03320"
     },
     {
@@ -49,15 +61,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "233CF8DB-8F72-4E83-9851-0C566F867310"
+      "id": "3EFE2F6D-F42E-4BAF-BDA6-AB66A3494BBF"
     },
     {
       "class": "symbolMaster",
-      "id": "AA027A97-C655-4ABE-B22B-86C7BD662800"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E92DA84B-9FAA-4B40-A5EF-E6C00277D72A"
+      "id": "56CE1C39-994B-4BBF-A2A7-D3B3306677C9"
     }
   ],
   "maintainScrollPosition": false,
@@ -115,7 +123,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -451,
+    "base": 0,
     "guides": [
     ]
   }

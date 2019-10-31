@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A91F9BA4-438C-4668-A9CD-7AEED765E42B",
+  "do_objectID": "BB1F9F13-6C05-4C3C-85AA-EDBCD839378A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 47,
-    "width": 714,
-    "x": 277,
-    "y": 540
+    "width": 223,
+    "x": 32,
+    "y": 446
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,23 +34,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "C14C91AB-2000-42A0-809F-EC3E01F8D784_stringValue",
-      "value": "Installation Qualification Protocol"
+      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9/A6340864-19C2-496D-AA64-406192C802FA_stringValue",
+      "value": "Context"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "A9D917D4-B108-4EA3-99E1-FFDCFCB45882_stringValue",
-      "value": "99."
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9_symbolID",
-      "value": "9614D3E7-A3F1-42E8-B336-62DFE8E122BD"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9/8B3A52C8-248F-4BF9-B6AD-A593A5321C56_stringValue",
-      "value": "Setup verification"
+      "overrideName": "DFF13B38-6598-44AC-86D6-42175FA2712F_symbolID",
+      "value": "221CF261-491D-489F-8EF7-EEF8FF6BC019"
     }
   ],
   "resizingConstraint": 63,
@@ -92,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A8698BAF-CDD2-4158-A3E7-8CD98E278C61",
+    "do_objectID": "4338C1FC-AA65-41F5-A563-DF9418B8A059",
     "endMarkerType": 0,
     "fills": [
     ],
