@@ -21,20 +21,21 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "7.2 Confirm Accessories"
+    "string": "3. Setup Verification"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6ECC0235-1E21-4F32-876F-C673E35921C6",
+  "do_objectID": "2B334E8C-0C80-4163-BA8E-04B7BF23E4F5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 144,
-    "x": 307,
-    "y": 871
+    "width": 118,
+    "x": 42,
+    "y": 544
   },
-  "glyphBounds": "{{0, 2}, {143, 11}}",
+  "glyphBounds": "{{0, 2}, {118, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "7.2 Confirm Accessor",
+  "name": "3. Setup Verificatio",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -103,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6D65F4BE-4DF7-4EE4-B341-1E7076D34B78",
+    "do_objectID": "4D31B938-8F71-4CA2-8D78-A8FE11934CD2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,7 +132,8 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

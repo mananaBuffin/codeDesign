@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 367,
+    "height": 265,
     "width": 223,
     "x": 32,
-    "y": 446
+    "y": 441
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,

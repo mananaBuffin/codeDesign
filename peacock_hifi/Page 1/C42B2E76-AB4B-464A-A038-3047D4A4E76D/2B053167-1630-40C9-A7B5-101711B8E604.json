@@ -16,25 +16,26 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Regular",
               "size": 13
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "7.2 Confirm Accessories"
+    "string": "7.1 Confirm Setup Action"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6ECC0235-1E21-4F32-876F-C673E35921C6",
+  "do_objectID": "2B053167-1630-40C9-A7B5-101711B8E604",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 144,
-    "x": 307,
-    "y": 871
+    "width": 145,
+    "x": 56,
+    "y": 567
   },
-  "glyphBounds": "{{0, 2}, {143, 11}}",
+  "glyphBounds": "{{0, 2}, {144, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "7.2 Confirm Accessor",
+  "name": "7.1 Confirm Setup Ac",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -103,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6D65F4BE-4DF7-4EE4-B341-1E7076D34B78",
+    "do_objectID": "4D63505C-0361-4BC2-B3E3-8F8F4AF4C66C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,12 +127,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Regular",
             "size": 13
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
