@@ -16,25 +16,26 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Regular",
               "size": 13
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "7.1 Confirm Setup Actions"
+    "string": "Optical bench core bolt lockouts removed"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A2458F03-BBEC-4535-A429-518CC2F17BA0",
+  "do_objectID": "545EC4AC-98F3-404E-96E7-C6106BEEE4DC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 153,
-    "x": 297,
-    "y": 625
+    "height": 21,
+    "width": 428,
+    "x": 5,
+    "y": 0
   },
-  "glyphBounds": "{{0, 2}, {153, 13}}",
+  "glyphBounds": "{{0, 2}, {239, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,9 +64,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "7.1 Confirm Setup Ac",
+  "name": "Optical bench core b",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -103,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9EC67748-C4DB-42C6-AF26-90378ADF68A4",
+    "do_objectID": "971D91A8-FDB9-4D4C-93AA-CF3A52AFEBD4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,12 +127,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Regular",
             "size": 13
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -139,5 +141,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

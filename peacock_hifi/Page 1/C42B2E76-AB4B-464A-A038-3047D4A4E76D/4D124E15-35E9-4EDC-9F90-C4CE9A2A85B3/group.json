@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A91F9BA4-438C-4668-A9CD-7AEED765E42B",
+  "do_objectID": "4D124E15-35E9-4EDC-9F90-C4CE9A2A85B3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,53 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 47,
-    "width": 714,
-    "x": 277,
-    "y": 540
+    "height": 45,
+    "width": 433,
+    "x": 313,
+    "y": 663
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "section-title",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "C14C91AB-2000-42A0-809F-EC3E01F8D784_stringValue",
-      "value": "Installation Qualification Protocol"
+      "class": "text",
+      "id": "700086E9-1E23-40F4-A1BA-2D5DDA57B921"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "A9D917D4-B108-4EA3-99E1-FFDCFCB45882_stringValue",
-      "value": "99."
+      "class": "group",
+      "id": "04BA5CF9-EAD6-4EFD-AAD5-2697EC471C04"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9_symbolID",
-      "value": "9614D3E7-A3F1-42E8-B336-62DFE8E122BD"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9/8B3A52C8-248F-4BF9-B6AD-A593A5321C56_stringValue",
-      "value": "Setup verification"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9/3CEEDA39-42C5-4CFB-83C2-1DEE83379D90_stringValue",
-      "value": "7."
+      "class": "group",
+      "id": "FA1AA1B7-AA59-4779-8CD1-8F6F1FCF0F2D"
     }
   ],
+  "maintainScrollPosition": false,
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -97,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A8698BAF-CDD2-4158-A3E7-8CD98E278C61",
+    "do_objectID": "994239CC-A210-4FC3-B3BD-9A7451F0D614",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,7 +97,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "A6F313F4-F86F-4BF3-A43B-DCC1187AAD2C",
-  "verticalSpacing": 0
+  }
 }

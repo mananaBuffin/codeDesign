@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 37,
+        "length": 47,
         "location": 0
       }
     ],
-    "string": "UPS installed and in good condition.\n"
+    "string": "Reagent chiller assembly (RCA) lockouts removed"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CDE3B28E-61D9-45C4-BE62-D5341C93B950",
+  "do_objectID": "AF8C5C07-CBC4-44CC-95EC-E3F78923D7ED",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,10 +51,10 @@
     "constrainProportions": false,
     "height": 21,
     "width": 488,
-    "x": 318,
-    "y": 679
+    "x": 5,
+    "y": 0
   },
-  "glyphBounds": "{{0, 2}, {207, 13}}",
+  "glyphBounds": "{{1, 1}, {286, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "UPS installed and in",
+  "name": "Reagent chiller asse",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6B66E706-CE19-4D7F-B9CE-6E24E3388B8A",
+    "do_objectID": "4E304F0E-32D5-43B3-A5E3-4462F31074CE",
     "endMarkerType": 0,
     "fills": [
     ],

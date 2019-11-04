@@ -16,25 +16,26 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Regular",
               "size": 13
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "7.1 Confirm Setup Actions"
+    "string": "Pass"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A2458F03-BBEC-4535-A429-518CC2F17BA0",
+  "do_objectID": "056B57FF-D8FE-4059-92EE-F2A33331CE8D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 153,
-    "x": 297,
-    "y": 625
+    "width": 40,
+    "x": 24,
+    "y": 5
   },
-  "glyphBounds": "{{0, 2}, {153, 13}}",
+  "glyphBounds": "{{1, 2}, {27, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,9 +64,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "7.1 Confirm Setup Ac",
+  "name": "Pass",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -103,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9EC67748-C4DB-42C6-AF26-90378ADF68A4",
+    "do_objectID": "AD1AC834-59FF-4151-9EB5-6C22FE2BD7E7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,12 +127,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Regular",
             "size": 13
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -139,5 +141,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

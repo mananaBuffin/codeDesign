@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 68,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "All accessory crate items present, inspected, and in good condition."
+    "string": "UPS installed and in good condition.\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "700086E9-1E23-40F4-A1BA-2D5DDA57B921",
+  "do_objectID": "CDE3B28E-61D9-45C4-BE62-D5341C93B950",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 428,
-    "x": 318,
-    "y": 648
+    "width": 488,
+    "x": 5,
+    "y": 0
   },
-  "glyphBounds": "{{0, 2}, {387, 13}}",
+  "glyphBounds": "{{0, 2}, {207, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "All accessory crate",
+  "name": "UPS installed and in",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D04E1DEC-F12C-40D3-ABE8-A438387A4D2B",
+    "do_objectID": "6B66E706-CE19-4D7F-B9CE-6E24E3388B8A",
     "endMarkerType": 0,
     "fills": [
     ],
