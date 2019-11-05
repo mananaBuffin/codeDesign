@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 35,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "2. Installation Qualification Prot…"
+    "string": "2. Installation Qualification P…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 193,
+    "width": 175,
     "x": 42,
-    "y": 519
+    "y": 488
   },
-  "glyphBounds": "{{0, 2}, {192, 12}}",
+  "glyphBounds": "{{0, 2}, {174, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

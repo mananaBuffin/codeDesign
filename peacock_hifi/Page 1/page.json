@@ -45,6 +45,10 @@
     },
     {
       "class": "artboard",
+      "id": "980811DC-C9D6-463E-8B70-CBCFB2790C25"
+    },
+    {
+      "class": "artboard",
       "id": "0ED48F9B-E01C-45BB-AE69-23540C04D8B8"
     },
     {
@@ -66,6 +70,10 @@
     {
       "class": "symbolMaster",
       "id": "E77C0C96-7EE2-4380-B7C0-54A207195285"
+    },
+    {
+      "class": "artboard",
+      "id": "46173C33-B967-4998-A459-6C71728587F4"
     }
   ],
   "maintainScrollPosition": false,

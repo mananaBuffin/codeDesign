@@ -66,6 +66,22 @@
     {
       "class": "symbolMaster",
       "id": "56CE1C39-994B-4BBF-A2A7-D3B3306677C9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7D6231B3-CE65-4B16-9C31-4B2A94CE7D16"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "640F36BB-239F-44AE-B4DB-A8B8AD91E462"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F0B12FBD-08DA-4397-89A2-B495A5F1C8A2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "927DCE16-D375-4017-B661-3EDC1D9860F4"
     }
   ],
   "maintainScrollPosition": false,
