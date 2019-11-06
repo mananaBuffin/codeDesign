@@ -8,33 +8,32 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "alpha": 1,
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 12
+              "size": 13
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 10,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Account ID"
+    "string": "Value"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "42A39B3C-4BB9-480E-8627-CE8088DD18BE",
+  "do_objectID": "A67ACDA2-CCA0-48B6-88C8-ED89C374879B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 59,
-    "x": 0,
-    "y": 0
+    "height": 15,
+    "width": 50,
+    "x": 12,
+    "y": 10
   },
-  "glyphBounds": "{{0, 2}, {58, 10}}",
+  "glyphBounds": "{{0, 0}, {32, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,12 +60,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 1,
   "maintainScrollPosition": false,
-  "name": "Title",
+  "name": "Placeholder",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
-  "resizingType": 0,
+  "resizingConstraint": 27,
+  "resizingType": 2,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
@@ -103,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C6C9A111-CFD6-4745-8404-AED1A4D202B9",
+    "do_objectID": "B5E34D57-A80A-4B23-86FB-38397AFF01F7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,26 +117,25 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 12
+            "size": 13
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle"
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

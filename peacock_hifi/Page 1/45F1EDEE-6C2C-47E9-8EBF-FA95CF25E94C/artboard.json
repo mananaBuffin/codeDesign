@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -64,28 +64,36 @@
       "id": "3FA2CF40-0A8C-4450-BD1E-7296862852FA"
     },
     {
-      "class": "text",
-      "id": "86A5AC77-B294-4151-B35B-207A878EF88A"
+      "class": "group",
+      "id": "D64B8261-292E-430D-9AA3-96C456EEF893"
     },
     {
       "class": "group",
-      "id": "0AC4BEC3-F6ED-4C52-A9F0-8C9A1F4B9098"
+      "id": "F09FB7AD-B2ED-4893-90CD-8B1D5190564D"
     },
     {
-      "class": "group",
-      "id": "1C64F8C4-0BBF-4882-9E7E-D5BBC1100079"
+      "class": "symbolInstance",
+      "id": "96BEE2FD-8ADB-4B6C-94C9-51EDDC616093"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AF84947-7029-4E06-8223-A55D934C36DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "553832E5-9559-45FB-8B8E-F4703351785D"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
+    "columnWidth": 58,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
-    "drawVertical": false,
+    "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 20,
-    "guttersOutside": true,
-    "horizontalOffset": 0,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 32,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,

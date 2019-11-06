@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.1470662154423217,
+    "green": 0.9451426630434783,
+    "red": 0.9243884896902141
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1451,
+    "height": 1605,
     "width": 1024,
     "x": 2639,
     "y": 1837
@@ -39,7 +39,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -56,7 +56,7 @@
       56
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -85,6 +85,10 @@
     {
       "class": "rectangle",
       "id": "2715E396-738D-4792-866C-C3195EEDFEEB"
+    },
+    {
+      "class": "group",
+      "id": "AF82CC0D-D987-45D8-9C26-5858BE3611E8"
     },
     {
       "class": "symbolInstance",
@@ -185,6 +189,10 @@
     {
       "class": "text",
       "id": "700AA335-2CFB-42EE-BDD1-812CBF2116BE"
+    },
+    {
+      "class": "text",
+      "id": "7EAD3EFE-5206-4172-9530-8FFD8A1C2520"
     },
     {
       "class": "symbolInstance",

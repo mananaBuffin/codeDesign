@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 568,
+    "height": 705,
     "width": 320,
     "x": 2245,
     "y": 1837
@@ -37,6 +37,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      16,
+      304
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -50,8 +52,36 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "640CE3D1-A9B3-4D5D-88DC-BE46546FBC25"
+    },
+    {
       "class": "text",
-      "id": "2C9FB4B0-9B7D-441A-A16A-A22FB4BF04CF"
+      "id": "2BB51340-220B-482C-8E99-95E159BC7C3D"
+    },
+    {
+      "class": "rectangle",
+      "id": "83C5D39B-C75C-449F-B31E-DDFE528B6B31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AF649FD-98A2-458B-A30F-2616177A90E6"
+    },
+    {
+      "class": "text",
+      "id": "6B8BC9FC-29F5-4095-8FBD-D6F2DCC4C271"
+    },
+    {
+      "class": "group",
+      "id": "958A949D-EB0E-42DE-BDFC-922F6AAE307E"
+    },
+    {
+      "class": "group",
+      "id": "5DC7CDD9-21A8-402E-AF0C-F70D7B5CF4FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "4060BF12-A65C-4350-B936-7C1EBFCD2B3F"
     }
   ],
   "layout": {

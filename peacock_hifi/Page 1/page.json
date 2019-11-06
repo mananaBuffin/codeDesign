@@ -74,6 +74,10 @@
     {
       "class": "artboard",
       "id": "46173C33-B967-4998-A459-6C71728587F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D7FC524-1507-41C7-9E54-0AD1EF2AF303"
     }
   ],
   "maintainScrollPosition": false,

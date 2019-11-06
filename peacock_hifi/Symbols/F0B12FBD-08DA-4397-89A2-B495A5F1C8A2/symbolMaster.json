@@ -14,6 +14,10 @@
   "do_objectID": "F0B12FBD-08DA-4397-89A2-B495A5F1C8A2",
   "exportOptions": {
     "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },

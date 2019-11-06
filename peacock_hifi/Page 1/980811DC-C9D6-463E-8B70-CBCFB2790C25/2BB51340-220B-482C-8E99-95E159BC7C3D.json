@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
+            "alpha": 1,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 12
+              "name": "HelveticaNeue-LightExt",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -25,16 +25,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Instrument ID"
+    "string": "PIQOQ System"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B1A4543B-BB34-4D81-B7EB-D077D42FBD13",
+  "do_objectID": "2BB51340-220B-482C-8E99-95E159BC7C3D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 73,
-    "x": 0,
-    "y": 0
+    "height": 18,
+    "width": 151,
+    "x": 16,
+    "y": 19
   },
-  "glyphBounds": "{{1, 2}, {71, 10}}",
+  "glyphBounds": "{{1, -1}, {149, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,9 +63,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Title",
+  "name": "PageTitle",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -103,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C3233A40-07B4-4816-A0A9-58062E7479E6",
+    "do_objectID": "72FA9366-DB21-4204-8388-55EBDE46D899",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,7 +118,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
+          "alpha": 1,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -126,8 +126,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 12
+            "name": "HelveticaNeue-LightExt",
+            "size": 20
           }
         },
         "paragraphStyle": {
@@ -139,5 +139,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
