@@ -36,6 +36,11 @@
       "_class": "overrideValue",
       "overrideName": "DFF13B38-6598-44AC-86D6-42175FA2712F_symbolID",
       "value": "221CF261-491D-489F-8EF7-EEF8FF6BC019"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37A8A58B-FD56-4441-ABD7-B574001826C9/A6340864-19C2-496D-AA64-406192C802FA_stringValue",
+      "value": "Contact and Instrument Location Information"
     }
   ],
   "resizingConstraint": 63,

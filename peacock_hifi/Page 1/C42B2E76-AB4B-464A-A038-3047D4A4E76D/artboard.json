@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1605,
+    "height": 1990,
     "width": 1024,
     "x": 2639,
     "y": 1837
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -101,6 +101,18 @@
     {
       "class": "symbolInstance",
       "id": "A91F9BA4-438C-4668-A9CD-7AEED765E42B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "616921D1-1EDE-4D1E-AC20-CAECEEB786FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "A5F12ADF-CBD8-42E4-B3C4-3CA3981C9E54"
+    },
+    {
+      "class": "text",
+      "id": "432427ED-F998-4E42-9053-CD8CD2FD9F85"
     },
     {
       "class": "text",
